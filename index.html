@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Keith Cole — Apps</title>
+<meta name="description" content="Apps by Keith Cole">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0b0f1a;
+    color: #f1f5f9;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem 1.25rem 2rem;
+  }
+  .brand { font-size: 0.8rem; letter-spacing: 0.35em; color: #f0cd6e; text-transform: uppercase; margin-bottom: 0.6rem; }
+  h1 { font-size: 2.4rem; font-weight: 800; margin-bottom: 0.4rem; text-align: center; }
+  .sub { color: #94a3b8; margin-bottom: 2.5rem; text-align: center; }
+  .apps { width: 100%; max-width: 520px; display: flex; flex-direction: column; gap: 1rem; }
+  .app {
+    display: block;
+    background: #141b2e;
+    border: 1px solid #26314d;
+    border-radius: 16px;
+    padding: 1.4rem 1.3rem;
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.2s, transform 0.15s;
+  }
+  .app:active { transform: scale(0.98); }
+  .app:hover { border-color: #f0cd6e; }
+  .app .icon { font-size: 2rem; margin-bottom: 0.5rem; }
+  .app h2 { font-size: 1.25rem; margin-bottom: 0.3rem; }
+  .app p { color: #94a3b8; font-size: 0.95rem; line-height: 1.5; }
+  .app .go { display: inline-block; margin-top: 0.8rem; color: #f0cd6e; font-weight: 700; font-size: 0.95rem; }
+  .app .go::after { content: " →"; }
+  footer { margin-top: auto; padding-top: 3rem; color: #475569; font-size: 0.8rem; }
+</style>
+</head>
+<body>
+  <div class="brand">Keith Cole</div>
+  <h1>My Apps</h1>
+  <p class="sub">Free tools I built and use</p>
+
+  <div class="apps">
+    <a class="app" href="https://keithcole813.github.io/part107-study/">
+      <div class="icon">✈️</div>
+      <h2>Part 107 Study</h2>
+      <p>FAA Part 107 Remote Pilot exam prep — flashcards, practice tests, and sectional chart map drills. Works offline.</p>
+      <span class="go">Open app</span>
+    </a>
+
+    <a class="app" href="https://keithcole813.github.io/flash-games/">
+      <div class="icon">🎮</div>
+      <h2>Flash Games</h2>
+      <p>Classic Flash games preserved with Ruffle, plus a 32-game directory. Playable on desktop, phone, and TV browsers.</p>
+      <span class="go">Play now</span>
+    </a>
+  </div>
+
+  <footer>Built by Keith Cole</footer>
+</body>
+</html>
